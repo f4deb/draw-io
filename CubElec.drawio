@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T20:20:52.561Z" agent="5.0 (X11)" etag="R3H1-9gC0mxexP95Uaao" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T18:32:13.518Z" agent="5.0 (X11)" etag="JuwrTjjN4UwP7XC87Bhr" version="14.6.6" type="github">
   <diagram id="mQI_0nkD2IU0TEgh4_OI" name="Page-1">
     <mxGraphModel dx="868" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -590,10 +590,10 @@
         <mxCell id="HH_CeNtuvAIVPq_1st5i-375" value="&lt;div&gt;PWM4&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;opacity=60;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="472.29999999999995" y="623.1400000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HH_CeNtuvAIVPq_1st5i-376" value="PWM6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;opacity=60;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="HH_CeNtuvAIVPq_1st5i-376" value="INT1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;opacity=60;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="492.29999999999995" y="623.1400000000001" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HH_CeNtuvAIVPq_1st5i-377" value="PWM5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;opacity=60;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="HH_CeNtuvAIVPq_1st5i-377" value="&lt;div&gt;INT0&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;opacity=60;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="472.29999999999995" y="527.0699999999999" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HH_CeNtuvAIVPq_1st5i-378" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;rounded=0;labelBackgroundColor=#99004D;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
