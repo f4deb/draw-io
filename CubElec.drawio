@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T10:51:09.172Z" agent="5.0 (X11)" etag="sqIpcRxcgDbUXIIOYu-c" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T10:57:19.803Z" agent="5.0 (X11)" etag="N4IgbXDPJCxQulAsrGpc" version="16.1.2" type="github">
   <diagram id="mQI_0nkD2IU0TEgh4_OI" name="Page-1">
     <mxGraphModel dx="848" dy="2799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,22 +359,22 @@
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 8px&quot;&gt;USB&lt;/font&gt;" treeRoot="1" id="HH_CeNtuvAIVPq_1st5i-351">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="HH_CeNtuvAIVPq_1st5i-246" vertex="1">
-            <mxGeometry x="10" y="570" width="52" height="40" as="geometry" />
+            <mxGeometry x="10" y="591" width="52" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 8px&quot;&gt;USB&lt;/font&gt;" treeRoot="1" id="HH_CeNtuvAIVPq_1st5i-355">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="HH_CeNtuvAIVPq_1st5i-246" vertex="1">
-            <mxGeometry x="328" y="570" width="52" height="40" as="geometry" />
+            <mxGeometry x="328" y="591" width="52" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 8px&quot;&gt;PWM&lt;/font&gt;" treeRoot="1" id="HH_CeNtuvAIVPq_1st5i-357">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="HH_CeNtuvAIVPq_1st5i-246" vertex="1">
-            <mxGeometry x="10" y="620" width="52" height="40" as="geometry" />
+            <mxGeometry x="10" y="659" width="52" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 8px&quot;&gt;PWM&lt;/font&gt;" treeRoot="1" id="HH_CeNtuvAIVPq_1st5i-358">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="HH_CeNtuvAIVPq_1st5i-246" vertex="1">
-            <mxGeometry x="328" y="620" width="52" height="40" as="geometry" />
+            <mxGeometry x="328" y="659" width="52" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="HH_CeNtuvAIVPq_1st5i-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#660033;" parent="HH_CeNtuvAIVPq_1st5i-246" source="HH_CeNtuvAIVPq_1st5i-357" target="HH_CeNtuvAIVPq_1st5i-358" edge="1">
