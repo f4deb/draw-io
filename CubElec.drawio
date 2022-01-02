@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T20:57:25.586Z" agent="5.0 (X11)" etag="QnzE_62txVnT6O5j_618" version="16.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-02T21:02:24.186Z" agent="5.0 (X11)" etag="582aQu1DabjBaeUlmN97" version="16.1.2" type="github" pages="4">
   <diagram id="mQI_0nkD2IU0TEgh4_OI" name="CUBEBUS">
     <mxGraphModel dx="1422" dy="3127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -610,17 +610,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uzqi4IGGXIWrCVVSwkSn" name="POWER BOARD">
-    <mxGraphModel dx="1422" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uRRGJ__m7gdOra6SiM15-0" />
         <mxCell id="uRRGJ__m7gdOra6SiM15-1" parent="uRRGJ__m7gdOra6SiM15-0" />
-        <mxCell id="uRRGJ__m7gdOra6SiM15-2" value="POWER_BOARD" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};rounded=0;labelBackgroundColor=#99004D;fillColor=#33001A;gradientColor=#ffffff;opacity=50;" parent="uRRGJ__m7gdOra6SiM15-1" vertex="1">
-          <mxGeometry x="41" y="80" width="750" height="380" as="geometry" />
+        <mxCell id="uRRGJ__m7gdOra6SiM15-2" value="POWER_BOARD" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};rounded=0;labelBackgroundColor=#99004D;opacity=50;" parent="uRRGJ__m7gdOra6SiM15-1" vertex="1">
+          <mxGeometry x="41" y="80" width="750" height="440" as="geometry" />
         </mxCell>
         <mxCell id="uRRGJ__m7gdOra6SiM15-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="uRRGJ__m7gdOra6SiM15-2" source="uRRGJ__m7gdOra6SiM15-5" target="uRRGJ__m7gdOra6SiM15-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRRGJ__m7gdOra6SiM15-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="uRRGJ__m7gdOra6SiM15-2" source="uRRGJ__m7gdOra6SiM15-5" target="uRRGJ__m7gdOra6SiM15-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag3E5EfMmG-Z7D8PcZL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uRRGJ__m7gdOra6SiM15-2" source="uRRGJ__m7gdOra6SiM15-5" target="Vag3E5EfMmG-Z7D8PcZL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="POWER_BATT" treeRoot="1" id="uRRGJ__m7gdOra6SiM15-5">
@@ -735,6 +738,15 @@
         </mxCell>
         <mxCell id="uRRGJ__m7gdOra6SiM15-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;rounded=0;labelBackgroundColor=#99004D;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="uRRGJ__m7gdOra6SiM15-2" vertex="1">
           <mxGeometry x="590" y="273" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag3E5EfMmG-Z7D8PcZL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uRRGJ__m7gdOra6SiM15-2" source="Vag3E5EfMmG-Z7D8PcZL-1" target="uRRGJ__m7gdOra6SiM15-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag3E5EfMmG-Z7D8PcZL-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.isolator;" vertex="1" parent="uRRGJ__m7gdOra6SiM15-2">
+          <mxGeometry x="149" y="93" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag3E5EfMmG-Z7D8PcZL-4" value="&lt;div&gt;CURRENT&lt;/div&gt;&lt;div&gt;SENSOR&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="uRRGJ__m7gdOra6SiM15-2">
+          <mxGeometry x="510" y="73" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRRGJ__m7gdOra6SiM15-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#660033;" parent="uRRGJ__m7gdOra6SiM15-1" target="uRRGJ__m7gdOra6SiM15-32" edge="1">
           <mxGeometry relative="1" as="geometry">
