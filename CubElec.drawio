@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T17:27:13.780Z" agent="5.0 (X11)" etag="VgvGn1z8MK2TjhKvnNfK" version="16.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-09T16:51:18.590Z" agent="5.0 (X11)" etag="axYJCk_Ccc2_fXSjL_e9" version="16.2.4" type="github" pages="4">
   <diagram id="mQI_0nkD2IU0TEgh4_OI" name="CUBEBUS">
     <mxGraphModel dx="1422" dy="3127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -799,7 +799,7 @@
         <mxCell id="y36XwxYf20w0Q6i_Ve7O-0" />
         <mxCell id="y36XwxYf20w0Q6i_Ve7O-1" parent="y36XwxYf20w0Q6i_Ve7O-0" />
         <mxCell id="y36XwxYf20w0Q6i_Ve7O-2" value="Z" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};rounded=0;shadow=0;labelBackgroundColor=#E3C800;sketch=0;strokeColor=#000000;fillColor=#80FF00;gradientColor=#3D3D3D;" parent="y36XwxYf20w0Q6i_Ve7O-1" vertex="1">
-          <mxGeometry x="20" y="1320" width="807" height="1000" as="geometry" />
+          <mxGeometry x="20" y="1320" width="830" height="1000" as="geometry" />
         </mxCell>
         <UserObject label="PIC32" treeRoot="1" id="y36XwxYf20w0Q6i_Ve7O-3">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="y36XwxYf20w0Q6i_Ve7O-2" vertex="1">
@@ -956,6 +956,41 @@
         <mxCell id="y36XwxYf20w0Q6i_Ve7O-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" parent="y36XwxYf20w0Q6i_Ve7O-2" vertex="1">
           <mxGeometry x="11" y="599.5" width="50" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="jMUSfek14YeDwTVvT6nM-0" value="&lt;div&gt;IC1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IC4&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y36XwxYf20w0Q6i_Ve7O-2">
+          <mxGeometry x="500" y="480" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jMUSfek14YeDwTVvT6nM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.04;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y36XwxYf20w0Q6i_Ve7O-2" source="jMUSfek14YeDwTVvT6nM-2" target="jMUSfek14YeDwTVvT6nM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 11px&quot;&gt;Period&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" treeRoot="1" id="jMUSfek14YeDwTVvT6nM-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y36XwxYf20w0Q6i_Ve7O-2">
+            <mxGeometry x="686" y="480" width="52" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jMUSfek14YeDwTVvT6nM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.644;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="y36XwxYf20w0Q6i_Ve7O-2" source="jMUSfek14YeDwTVvT6nM-3" target="jMUSfek14YeDwTVvT6nM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Frequency" treeRoot="1" id="jMUSfek14YeDwTVvT6nM-3">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y36XwxYf20w0Q6i_Ve7O-2">
+            <mxGeometry x="686" y="530" width="52" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jMUSfek14YeDwTVvT6nM-6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" source="jMUSfek14YeDwTVvT6nM-2" target="jMUSfek14YeDwTVvT6nM-7" parent="y36XwxYf20w0Q6i_Ve7O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="jMUSfek14YeDwTVvT6nM-7">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y36XwxYf20w0Q6i_Ve7O-2">
+            <mxGeometry x="750" y="480" width="52" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jMUSfek14YeDwTVvT6nM-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" source="jMUSfek14YeDwTVvT6nM-3" target="jMUSfek14YeDwTVvT6nM-10" parent="y36XwxYf20w0Q6i_Ve7O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="jMUSfek14YeDwTVvT6nM-10">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="y36XwxYf20w0Q6i_Ve7O-2">
+            <mxGeometry x="750" y="530" width="52" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="y36XwxYf20w0Q6i_Ve7O-46" value="&lt;h1&gt;&lt;b&gt;CPU_BOARD&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=#FFFFFF;sketch=0;" parent="y36XwxYf20w0Q6i_Ve7O-1" vertex="1">
           <mxGeometry x="380" y="1200" width="38.29" height="20" as="geometry" />
         </mxCell>
